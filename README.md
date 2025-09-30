@@ -1,2 +1,4 @@
 # LAquila_Earthquake
 "The L'Aquila earthquake on April 6, 2009 in central Italy killed over 300 people and was one of the worst earthquakes in the country in 30 years. However, this earthquake is more well known for the controversy surrounding it. Six scientists and one government official on the Italian National Commission for the Forecast and Prevention of Major Risks were accused of giving "inexact, incomplete and contradictory" information about the earthquake danger before the mainshock. So, we're going to learn about the "pattern" of the earthquake which include foreshock, mainshock, and aftershock
+
+Library: Obspy, Matplotlib
